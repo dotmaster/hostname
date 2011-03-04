@@ -1,7 +1,10 @@
 {
   "name": "hostname",
   "description": "A simple utility for getting the hostname of your machine, even before nthe os module introduced in node 0.4",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "tags": [
+       "hostname"
+   ],  
   "repository": {
     "type": "git",
     "url": "git://github.com/dotmaster/hostname.git"
@@ -12,6 +15,6 @@
     "lib": "."
   },
   "engines": {
-    "node": "0.2.6"
+    "node": ">=0.2.6"
   }
 }
