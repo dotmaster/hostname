@@ -1,7 +1,7 @@
 {
   "name": "hostname",
-  "description": "A simple utility for getting the hostname of your machine, even before nthe os module introduced in node 0.4",
-  "version": "0.0.2",
+  "description": "A simple utility for getting the hostname of your machine, even before the os module introduced in node 0.4",
+  "version": "0.0.3",
   "tags": [
        "hostname"
    ],  
